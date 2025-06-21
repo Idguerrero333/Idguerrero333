@@ -19,6 +19,7 @@
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)
 ---
 
+<!-- This content will not appear in the rendered Markdown 
 ## 🌟 Proyectos destacados
 
 - **[Nombre del Proyecto 1](link)**
@@ -30,6 +31,9 @@
   - Tecnologías principales.
 
 *(Incluye enlaces a repositorios, demos o documentación)*
+-->
+
+
 
 ---
 
@@ -43,8 +47,8 @@
 ## 📫 Contacto
 
 - **Correo:** idguerrero333@gmail.com
-- **LinkedIn:** [Tu Perfil](https://linkedin.com/in/idg333/)
-- **GitHub:** [Idguerrero333](https://github.com/Idguerrero333)
+- **LinkedIn:** idg333(https://linkedin.com/in/idg333/)
+- **GitHub:** Idguerrero333(https://github.com/Idguerrero333)
 
 
 ---
